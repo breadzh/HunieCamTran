@@ -1,6 +1,8 @@
 # HunieCamTran
 HunieCam Studio 汉化，好用请`Star`，谢谢
 
+安装补丁后，可以在游戏中按J激活简单模式（一键收集奖励，一键完成活动）
+
 # 使用方法
 从`release`处下载`HunieCamTran-v0.1.0.zip`，解压至`HunieCamStudio.exe`同目录即可
 
