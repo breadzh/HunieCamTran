@@ -2,7 +2,7 @@
 HunieCam Studio 汉化，好用请`Star`，谢谢
 
 # 使用方法
-解压至`HunieCamStudio.exe`同目录即可
+从`release`处下载`HunieCamTran-v0.1.0.zip`，解压至`HunieCamStudio.exe`同目录即可
 
 **若为`Steam`版本，请先启动`Steam`之后再运行游戏**
 
