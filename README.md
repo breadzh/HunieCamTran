@@ -1,5 +1,5 @@
 # HunieCamTran
-HunieCam Studio 汉化
+HunieCam Studio 汉化，好用请`Star`，谢谢
 
 # 使用方法
 解压至`HunieCamStudio.exe`同目录即可
